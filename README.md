@@ -1,4 +1,3 @@
-Berikut revisi skema perhitungan poin yang mempertimbangkan bahwa pada setiap ronde hanya sejumlah maksimal pemain bisa “menyentuh finish” (finishers), dan sisanya dieliminasi otomatis tanpa finish time. Kita akan melihat apakah memungkinkan memberi poin yang sama untuk semua yang tereliminasi di ronde yang sama, serta bagaimana mengatasi potensi tie antara tim.
 
 ---
 
